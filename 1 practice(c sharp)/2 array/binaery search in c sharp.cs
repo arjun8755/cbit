@@ -23,7 +23,7 @@ namespace ConsoleApp1
                 }
                 else if (j[mid] < t)
                 {
-                    low = mid + 1; // Target element array ke right half mein hoga
+                    low = mid + 1; 
                 }
                 else
                 {
